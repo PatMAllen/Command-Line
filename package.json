@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "command-line-1",
+  "description": "Team Profile Generator",
+  "version": "1.0.0",
+  "main": "questions.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "Run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatMAllen/Command-Line.git"
+  },
+  "keywords": [
+    "Team",
+    "Profiler"
+  ],
+  "author": "Pat M allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatMAllen/Command-Line/issues"
+  },
+  "homepage": "https://github.com/PatMAllen/Command-Line#readme"
+}
